@@ -1,0 +1,26 @@
+{
+  "name": "ballooning-nest-eggs-rails-react",
+  "version": "1.0.0",
+  "description": "This README would normally document whatever steps are necessary to get the application up and running.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "cd frontend && npm start",
+    "build": "cd frontend && npm run build",
+    "install": "cd frontend && npm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxbildner/ballooning-nest-eggs-rails-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxbildner/ballooning-nest-eggs-rails-react/issues"
+  },
+  "homepage": "https://github.com/maxbildner/ballooning-nest-eggs-rails-react#readme"
+}
